@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oneuphealthclient/static/css/main.5f361e03.chunk.css",
+    "main.js": "/oneuphealthclient/static/js/main.60a077c2.chunk.js",
+    "main.js.map": "/oneuphealthclient/static/js/main.60a077c2.chunk.js.map",
+    "runtime-main.js": "/oneuphealthclient/static/js/runtime-main.bc80580e.js",
+    "runtime-main.js.map": "/oneuphealthclient/static/js/runtime-main.bc80580e.js.map",
+    "static/js/2.dc97b604.chunk.js": "/oneuphealthclient/static/js/2.dc97b604.chunk.js",
+    "static/js/2.dc97b604.chunk.js.map": "/oneuphealthclient/static/js/2.dc97b604.chunk.js.map",
+    "index.html": "/oneuphealthclient/index.html",
+    "precache-manifest.1840fe07e16ee0df07221ec208230928.js": "/oneuphealthclient/precache-manifest.1840fe07e16ee0df07221ec208230928.js",
+    "service-worker.js": "/oneuphealthclient/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/oneuphealthclient/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc97b604.chunk.js.LICENSE.txt": "/oneuphealthclient/static/js/2.dc97b604.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc80580e.js",
+    "static/js/2.dc97b604.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.60a077c2.chunk.js"
+  ]
+}
