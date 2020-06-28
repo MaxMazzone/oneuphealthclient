@@ -25,7 +25,7 @@ function App() {
     let response;
     try {
       response = await axios({
-        url: `http://localhost:1337/fhir/everything/${accessToken}`,
+        url: `https://oneupapi.herokuapp.com/fhir/everything/${accessToken}`,
         params:{ skip: newSkip }
         }
       );
