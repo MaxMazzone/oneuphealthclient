@@ -5,11 +5,11 @@
     <li>Ensure that you have correctly lifted the sails API instance which should be running on <strong>http://localhost:1337</strong> </li>
     <li> pull down this repo locally</li>
     <li> run npm install</li>
-    <li> run npmn start</li>
+    <li> run npm start</li>
 </ul>
 
 <h3> This web app is also hosted publicly</h3>
-<a href="https://maxmazzone.github.io/oneuphealthclient/"> link </a>
+<a href="https://maxmazzone.github.io/oneuphealthclient/"> Link to client </a>
 <p>Note: the api is hosted on Heroku which pauses instance when inactive so the initial startup may be slow</p>
 
 
